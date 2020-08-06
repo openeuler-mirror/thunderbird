@@ -1,0 +1,4 @@
+cbindgen-vendor.tar.xz filter=lfs diff=lfs merge=lfs -text
+lightning-langpacks-68.10.0.tar.xz filter=lfs diff=lfs merge=lfs -text
+thunderbird-68.10.0.source.tar.xz filter=lfs diff=lfs merge=lfs -text
+thunderbird-langpacks-68.10.0-20200709.tar.xz filter=lfs diff=lfs merge=lfs -text
